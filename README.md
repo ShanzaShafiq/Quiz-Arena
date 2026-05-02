@@ -1,5 +1,3 @@
-# Quiz-Arena
- An interactive quiz app with categories, scoring, review answers, and leaderboard.
 # 🧠 Quiz Arena
 
 An interactive, responsive quiz web app with multiple categories, instant scoring, answer review, and a dynamic leaderboard system.
